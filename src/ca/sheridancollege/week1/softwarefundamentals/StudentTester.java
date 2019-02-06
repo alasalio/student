@@ -20,7 +20,7 @@ public class StudentTester {
         stuList[2]= new Student("Stu3",123);
         stuList[3]= new Student("Stu4",124);
         stuList[4]= new Student("Stu5",125);
-        System.out.println("change");
+        System.out.println("change 2 ahahhaha ehhehehee");
         
         for (int i=0;i<stuList.length;i++)
         {
